@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "137223586117",
+    "project_id": "tieks-50780",
+    "storage_bucket": "tieks-50780.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137223586117:android:6ca09f025a91bc1aeabe2c",
+        "android_client_info": {
+          "package_name": "com.tieksapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "137223586117-8io0u6ppeeq36n0pvg7kp8dm6qupletb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tieksapp",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "137223586117-ailctacnek4ovfm68ap8vho859l2sjqg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBB5J02eUQxlUWObe20akUeNLhCmgrJSSg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "137223586117-ailctacnek4ovfm68ap8vho859l2sjqg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

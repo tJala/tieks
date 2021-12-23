@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>137223586117-8e852rtinit0e3evfg4mqiqglopa7oju.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.137223586117-8e852rtinit0e3evfg4mqiqglopa7oju</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>137223586117-8io0u6ppeeq36n0pvg7kp8dm6qupletb.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAH_AIHIeDSU7MyM-GVyt2qutb6f7TiR0A</string>
+	<key>GCM_SENDER_ID</key>
+	<string>137223586117</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.reactjs.native.example.TieksApp</string>
+	<key>PROJECT_ID</key>
+	<string>tieks-50780</string>
+	<key>STORAGE_BUCKET</key>
+	<string>tieks-50780.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:137223586117:ios:bed382c8f8f542eceabe2c</string>
+</dict>
+</plist>
